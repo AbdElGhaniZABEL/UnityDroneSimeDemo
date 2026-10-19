@@ -1,0 +1,37 @@
+=== Parameters ===
+intialPos = (0.00, 0.00, 0.00)
+initialRotation = (0.00, 0.00, 0.00)
+controlMode = Automatic
+controlMode = Automatic
+trajectoryType = SquareTarget
+Coordinates = (0.00, 0.00, 0.00)  m
+Yaw = 0 deg
+period = 15  s
+length = 5  m
+useSinX = False
+useSinY = False
+useSinZ = False
+useSinYaw = False
+enablePrevention = False
+sensorRange = 7  m
+safeDistance = 4  m
+stabilizeSensors = False
+numberOfNewSensors = 32 sensors
+enableTracking = True
+altitudeLimits.min = 1 m
+altitudeLimits.max = 2 m
+horizontalDistanceLimits.min = 5 m
+horizontalDistanceLimits.max = 7 m
+autoFaceTarget = True 
+trackingCamera.fieldOfView = 70 
+focalLength = 16.43227 
+focusDistance = 10 
+
+=== Log Records ===
+Test N=3/10 Completed 
+Sim time = 37.5 s
+Time Scale = 0 s
+Real wall Clock time 18767.91 ms
+Frequency = 200 Hz
+Solver Iterations 12 Iterations/Step
+Enable CSV Logger True
