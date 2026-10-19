@@ -71,7 +71,7 @@ drone_csv_importer("Dataset/2_Trajectory_Tracking/TrajInf40.csv", "infP40L5", 1)
 
 ## Prerequisites
 
-* **MATLAB:** Tested on modern versions (e.g., R2023a or newer).
+* **MATLAB:** Tested on Older versions (e.g., R2018a or newer).
 
 * **WebGL Demo:** A modern web browser with WebGL support.
 
