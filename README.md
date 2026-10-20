@@ -74,23 +74,3 @@ drone_csv_importer("Dataset/2_Trajectory_Tracking/TrajInf40.csv", "infP40L5", 1)
 * **MATLAB:** Tested on Older versions (e.g., R2018a or newer).
 
 * **WebGL Demo:** A modern web browser with WebGL support.
-
-## Citation
-If you utilize this framework or dataset in your research, please cite our paper:
-
-```
-@unpublished{zabel2026unity,
-  title={A Real-Time Unity Framework for Integrated High- and Low-Level Drone Control: Standoff Object Tracking strategy as a Use Case},
-  author={Zabel, Abdelghani and Bouguenna, Ibrahim Farouk and Tahour, Ahmed},
-  note={Under Review},
-  year={2026}
-}
-
-
-```
-
-## Contact
-
-For questions or issues regarding the dataset or framework, please contact:
-**Abdelghani Zabel**
-Email: abdelghani.zabel@univ-mascara.dz
